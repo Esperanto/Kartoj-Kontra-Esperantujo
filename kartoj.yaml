@@ -1,0 +1,779 @@
+verdaj:
+  bildo: "img/verdaj_kartoj.png"
+  fontkoloro: "#008000"
+  antauxpado: "verda"
+  kartoj:
+    - teksto: 1. Kreu PDF de tiu ĉi dokumento kun po 9 paĝoj sur ĉiu A4-folio.\n2. Presu tion sur blanka 200gsm papero.\n3. Enplastigu en 2x75μ.\n4. Eltranĉu per "reverse wonky rectangle".
+    - teksto: hejmfarita abortigo
+    - teksto: virkolbaso
+    - teksto: mem-kanibalado
+    - teksto: vigla mansvingado
+    - teksto: senflugpovaj birdoj
+    - teksto: fotoj de mamoj
+    - teksto: fari la ĝustan agon
+    - teksto: ĉas-akcidentoj
+    - teksto: kartuna kamelo, kiu ĝuas la plaĉan guston de cigaredo
+    - teksto: la malrespekto de niaj plej bazaj homaj rajtoj
+    - teksto: la Viagra
+    - teksto: memmalamo
+    - teksto: muskolegoj
+    - teksto: honesta policano sen plu io ajn perdebla
+    - teksto: memelektita rifuzo
+    - teksto: ekvilibra matenmanĝo
+    - teksto: Red Bull
+    - teksto: kaŝi erekton
+    - teksto: dormigaj drogoj
+    - teksto: Renato Corsetti
+    - teksto: Twitter
+    - teksto: La Praeksplodo
+    - teksto: amputuloj
+    - teksto: Angela Merkel
+    - teksto: esti ekskludita
+    - teksto: nazmuko
+    - teksto: kovi ovon
+    - teksto: brakumado
+    - teksto: La Papo
+    - teksto: blankigita pugtruo
+    - teksto: viando de ĉevalo
+    - teksto: seksorganaj ornamaĵoj
+    - teksto: englitigo de fingro
+    - teksto: maljunaj japanoj
+    - teksto: akcepti bombonojn de nekonato
+    - teksto: la timo mem
+    - teksto: scienco
+    - teksto: kuraci samseksemon per preĝado
+    - teksto: samsekspara meksika danco
+    - teksto: la teroristoj
+    - teksto: fari ian seksumon al ŝi
+    - teksto: germana pornografio
+    - teksto: manĝego kaj vomego
+    - teksto: laŭetna buĉado
+    - teksto: friponi dum la Paralimpikaj Ludoj
+    - teksto: Osmo Buller
+    - teksto: fari diklipon
+    - teksto: ĉensegiloj anstataŭ manoj
+    - teksto: la placento
+    - teksto: kriplegaj homoj
+    - teksto: Tom Cruise
+    - teksto: koboldoj
+    - teksto: kirurgio per pioĉo
+    - teksto: Arnold Schwarzenegger
+    - teksto: injekto de hormonoj
+    - teksto: la prepucio
+    - teksto: morto
+    - teksto: mojosega ĉapelo
+    - teksto: subita superakvego
+    - teksto: frambogusta kondomo
+    - teksto: morti pro disenterio
+    - teksto: duon-senvesta kusen-batalo
+    - teksto: la koloniismo
+    - teksto: malĝoja masturbado
+    - teksto: viroj
+    - teksto: kortuŝaj orfoj
+    - teksto: la klitoro
+    - teksto: la Vikingoj
+    - teksto: la “amikoj”, kiuj ĉion formanĝas
+    - teksto: la metroo
+    - teksto: ŝajnigi interesiĝi
+    - teksto: atako de dinosaŭroj
+    - teksto: mikropeniso
+    - teksto: malbeno de cigano
+    - teksto: agrikulturo
+    - teksto: nevidita pugograto
+    - teksto: miaj ĝiboj
+    - teksto: anseroj
+    - teksto: agi kiel aĉuloj al infanoj
+    - teksto: senĝojigulo
+    - teksto: sunbrilo kaj ĉielarkoj
+    - teksto: la ekvilibro de teruro
+    - teksto: koketaj tekstmesaĝoj
+    - teksto: Edipa konflikto
+    - teksto: ŝteli la poŝmonon de eta infano
+    - teksto: kolbaso-festo
+    - teksto: Michael Jackson
+    - teksto: dividi injektilojn
+    - teksto: esti riĉa
+    - teksto: Mazi en Gondolando
+    - teksto: Drakulo
+    - teksto: spontana homa brulego
+    - teksto: universitato
+    - teksto: kadavramemo
+    - teksto: la ĉina nacia gimnastika teamo
+    - teksto: tutmonda varmiĝo
+    - teksto: furzi kaj forkuri
+    - teksto: vori la komuniajn panojn
+    - teksto: envio de peniso
+    - teksto: blankuloj
+    - teksto: Petro Baláž, Esperantisto de la Jaro 2012
+    - teksto: lasi por iu embarasan voĉmesaĝon
+    - teksto: mikozoj
+    - teksto: natura selektado
+    - teksto: masturbado
+    - teksto: M&Ms
+    - teksto: ĉekomputila festo
+    - teksto: kontraŭpremeblaj dikfingroj
+    - teksto: feki en sia subvestaĵo
+    - teksto: kaĉalotoj
+    - teksto: lernigi al roboto pri amo
+    - teksto: frotpurigi sub la faldoj
+    - teksto: el-aŭta pafado
+    - teksto: neatendita penismontrado
+    - teksto: seksumado de pandoj
+    - teksto: katapultoj
+    - teksto: la vagino de la brita reĝino
+    - teksto: Big Mac
+    - teksto: kontraŭhomaj minoj
+    - teksto: amaso de fekdamnaj problemoj
+    - teksto: matenmanĝa kolbaso
+    - teksto: streĉa atmosfero
+    - teksto: futbalo
+    - teksto: La Kremlino
+    - teksto: pomtorto
+    - teksto: harakiri
+    - teksto: la Klubo “Mickey Mouse”
+    - teksto: Mahatmo Gandhio
+    - teksto: adoleskantoj
+    - teksto: la ĉiam deviga minoritatulo
+    - teksto: fikamikoj
+    - teksto: pludoni siajn donacojn
+    - teksto: rastrumita bukako
+    - teksto: eksplodigo de atombombo
+    - teksto: atendi ĝis post la geedziĝo
+    - teksto: malgranda ĉevalo
+    - teksto: granda skatolo de bugrado
+    - teksto: nutri Luciano Pavarotti
+    - teksto: Ĝingis-Ĥano
+    - teksto: aŭtentika hungara kuirarto
+    - teksto: grandega stangobombono
+    - teksto: drinki tutsole
+    - teksto: formeti sian T-ĉemizon
+    - teksto: sin doni je 110%
+    - teksto: karnomanĝa bakterio
+    - teksto: mistrakto de infanoj
+    - teksto: fridujo plenplena je organoj
+    - teksto: momento de silento
+    - teksto: la fino de la mondo
+    - teksto: insisti pri la Kristo en Kristnasko
+    - teksto: venĝo entute meritita
+    - teksto: esti sorĉisto
+    - teksto: manĝeblaj subvestaĵoj
+    - teksto: povruloj
+    - teksto: 55-jaraĝa Britney Spears
+    - teksto: tiu aĵo, kiu elektroŝokas la stomakmuskolojn
+    - teksto: la facilanimeco de l' homaro
+    - teksto: fajreca fekaĵo
+    - teksto: Kartoj Kontraŭ Esperantujo
+    - teksto: plej naŭza murdo
+    - teksto: tempo por mi mem
+    - teksto: la neevitebla morto de la universo
+    - teksto: nokta polucio
+    - teksto: la tre laboremaj poloj
+    - teksto: vekiĝi duonvestita en la parkejo de McDonald's
+    - teksto: ferduraj mampintoj
+    - teksto: tuta nudeco
+    - teksto: Margaret Thatcher
+    - teksto: surveturi iun
+    - teksto: menstruaĵo
+    - teksto: eltiri sin
+    - teksto: delogi virinojn ĉe abortokliniko
+    - teksto: la sekreta programo de La Gejoj
+    - teksto: La Sankta Biblio
+    - teksto: tutmonda paco
+    - teksto: faligi kandelabron sur siajn malamikojn kaj suprengrimpi la ŝnuron
+    - teksto: tordo testika
+    - teksto: la poŝtisto
+    - teksto: paradokso pro vojaĝado en la tempo
+    - teksto: viroj, kiuj neniam telefonas
+    - teksto: manĝi la lastan vivantan bubalon
+    - teksto: senhejmuloj
+    - teksto: glorotruoj
+    - teksto: Sean Connery
+    - teksto: Dio
+    - teksto: la Inteligenta Dezajno
+    - teksto: la mola ĝiba intertruo
+    - teksto: drinkludoj
+    - teksto: eŭgeniko
+    - teksto: bona flaro
+    - teksto: la koro de infano
+    - teksto: la delogo
+    - teksto: leki aferojn por alproprigi ilin al si
+    - teksto: sala surprizo
+    - teksto: ŝerco pri la Holokaŭsto je malbona momento
+    - teksto: mia animo
+    - teksto: miaj seksrilatoj
+    - teksto: ovoj de pterodaktilo
+    - teksto: la altar-knaboj
+    - teksto: 72 virgulinoj
+    - teksto: ŝtelado kaj seksperforto
+    - teksto: pedofiloj
+    - teksto: la viglega popolmuziko de Orienta Eŭropo
+    - teksto: testudo, kiu mordas vian kacon
+    - teksto: hamburgero kun lardo, butero, kokidaĵo, fromaĝo, kaj majonezo
+    - teksto: mia aro de elektronikaj seksludiloj
+    - teksto: mezaĝa viro sur rulŝuoj
+    - teksto: la Sango de Kristo
+    - teksto: senzorga antaŭseksumado
+    - teksto: senpagaj specimenoj
+    - teksto: tempestego
+    - teksto: inversi siajn subvestaĵojn por eviti la lavejon
+    - teksto: dekstremuloj
+    - teksto: la vitra plafono
+    - teksto: fivortemulo
+    - teksto: sin masturbi en flakon de infanaj larmoj
+    - teksto: narkote sin distri
+    - teksto: misformituloj
+    - teksto: la brakoj de Michelle Obama
+    - teksto: eksplodoj
+    - teksto: kukumaj sandviĉoj kun la Reĝino
+    - teksto: ekzercoj pri team-formado
+    - teksto: subpremado
+    - teksto: dumŝofora suĉado
+    - teksto: saketo de magiaj fazeoloj
+    - teksto: nesimetriaj mamoj
+    - teksto: publika ridindigo
+    - teksto: kopulinstiga spektaklo
+    - teksto: mimo, kiu suferas koratakon
+    - teksto: Stephen Hawking dirante seksvortojn
+    - teksto: afrikaj infanoj
+    - teksto: buŝa herpeto
+    - teksto: trokompensado
+    - teksto: aĉulinoj
+    - teksto: la italoj
+    - teksto: muelejo plenplena je kadavroj
+    - teksto: Ŝia Plej Moŝta Moŝto La Reĝino Elizabet' la Dua
+    - teksto: kripliga ŝuldo
+    - teksto: vagadanta pubharo
+    - teksto: malĉastuloj kaj grandaj cigaroj
+    - teksto: pisi reno-ŝtonon
+    - teksto: dancaĉi
+    - teksto: la leprulejo
+    - teksto: katidoj!
+    - teksto: kok-bataloj
+    - teksto: kac-bataloj
+    - teksto: Kim Jong-Il
+    - teksto: espero
+    - teksto: 100 gramoj da bela maroka haŝiŝo
+    - teksto: incesto
+    - teksto: tomb-rabado
+    - teksto: koreoj, kiuj ne tre fortas je matematiko
+    - teksto: alkoholismo
+    - teksto: Justin Bieber
+    - teksto: la judoj
+    - teksto: bestamemo
+    - teksto: okulumi al maljunuloj
+    - teksto: afrikaj tamburistoj
+    - teksto: senzorga klaĉado
+    - teksto: civilaj kromviktimoj
+    - teksto: nekonvena jodlado
+    - teksto: amasnoditaj aŭskultiloj
+    - teksto: dekoraciita pubo
+    - teksto: foriri surĉevale al la sunsubiro
+    - teksto: interflustri flirtajn sensencaĵojn
+    - teksto: mia Facebook-stato
+    - teksto: esti pompa kaj grandioza
+    - teksto: laktado
+    - teksto: rifuzi redoni buŝan sekson
+    - teksto: sole ploregi en sian vespermanĝon
+    - teksto: mia seksorgano
+    - teksto: bombonoj
+    - teksto: jogurto
+    - teksto: la lasta albumo de Johannes Mueller
+    - teksto: fantazioj pri arbosegistoj
+    - teksto: La Gejoj
+    - teksto: Scientologio
+    - teksto: polica perforto
+    - teksto: kredeblaj transvestuloj
+    - teksto: lerneja amasbuĉado
+    - teksto: Tiger Woods
+    - teksto: kacfingroj
+    - teksto: rasismo
+    - teksto: surpriza seksumado!
+    - teksto: antaŭjuĝoj pro socia klaso
+    - teksto: meti bubokaptilojn en sia hejmo por mensludi kun domŝtelistoj
+    - teksto: elektronika muzikaĉo
+    - teksto: la LSD
+    - teksto: dumviva malĝojo
+    - teksto: pugosekso
+    - teksto: interveni por savi amik(in)on de predanto
+    - teksto: pornografio kun tentakloj
+    - teksto: tro da har-ĝelo
+    - teksto: entute prifajfi pri malriĉlandanoj
+    - teksto: La Misteraj Urboj de Oro
+    - teksto: Barack Obama
+    - teksto: duŝo de piso
+    - teksto: viŝi la pugon de sia koramik(in)o
+    - teksto: vaginofurzo
+    - teksto: ebriiĝi per kontraŭtusa kuracilo
+    - teksto: fortika mongolismulo
+    - teksto: Nazioj
+    - teksto: la privilegio de blankuloj
+    - teksto: kvarhora erekto
+    - teksto: elreviga naskiĝtaga festo
+    - teksto: pubereco
+    - teksto: du nanoj, kiuj fekas en sitelon
+    - teksto: la edzinaj devoj
+    - teksto: erektiĝi pro kolero
+    - teksto: seksa streĉiteco
+    - teksto: ludi Kac-tuŝon
+    - teksto: tiuj okazoj, kiam vi finis kun sablo en la fendo
+    - teksto: akvopafilo plena je kata piso
+    - teksto: Mohamedo (Pacon Sur Li)
+    - teksto: la steluloj de la pornografio
+    - teksto: la kompato de ĉiopova Dio
+    - teksto: la dikeco
+    - teksto: solide sekvita furzo
+    - teksto: la nanoj de Neĝulino
+    - teksto: BATMAN
+    - teksto: nigruloj
+    - teksto: diskreta okulpleno de mamflanko
+    - teksto: beluloj
+    - teksto: Avinjo
+    - teksto: '"senintence" palpi ŝian mamon'
+    - teksto: monda malsatego
+    - teksto: pentri per la fingroj
+    - teksto: la miraklo de naskiĝo
+    - teksto: kaproj sufokitaj per plastaj sakoj
+    - teksto: simio, kiu fumas cigaron
+    - teksto: la kuracigaj akvoj de Lurdo (Francio)
+    - teksto: la Disfendo de la Ruĝa Maro
+    - teksto: mortaj beboj
+    - teksto: la Amiŝoj
+    - teksto: impotenteco
+    - teksto: konkursoj de beleco por infanoj
+    - teksto: centaŭroj
+    - teksto: la porvira aspergilo Axe
+    - teksto: Eminem
+    - teksto: la voĉdonrajto de virinoj
+    - teksto: rimenoj por infanoj
+    - teksto: la mankanta testiko de Lance Armstrong
+    - teksto: nano-ĵetado
+    - teksto: multaj tranĉil-vundoj
+    - teksto: kibernetikaj plibonigoj
+    - teksto: servuteco
+    - teksto: denove ankoraŭ nova filmo pri fekdamnaj vampiroj
+    - teksto: multe da bruo por nenio
+    - teksto: pisi nur unu guteton
+    - teksto: fantomoj
+    - teksto: Pokemonoj
+    - teksto: vomi nur la stomakotegon
+    - teksto: kamikazoj
+    - teksto: anusaj perloj
+    - teksto: rufharuloj (eĉ pli kiam ili ploras)
+    - teksto: hemoroidoj
+    - teksto: Roĉjo, duonvestita
+    - teksto: Probal Dasgupta
+    - teksto: Ĵomart kaj Nataŝa sur galopanta blanka ĉevalo
+    - teksto: JoMo, kun la gitaro en unu mano kaj la kaco en la alia
+    - teksto: Bertilo Wennergren
+    - teksto: La Unua Libro
+    - teksto: PIV
+    - teksto: brakumo de Meva
+    - teksto: Manuela Ronco
+    - teksto: obsede rondokulanta Ian Fantom
+    - teksto: kaco
+    - teksto: vagino
+    - teksto: mamoj
+    - teksto: fekdamnaj Esperantistoj
+    - teksto: ruĝaj ĉevaloj
+    - teksto: TEJO
+    - teksto: francoj
+    - teksto: Amplifiki
+    - teksto: nokto sen TEJO-kondomo
+    - teksto: la gufujo
+    - teksto: kaŝi sin de Giorgio Silfer
+    - teksto: kabei de la junuleco
+    - teksto: organizi Ido-kongreson
+    - teksto: seksĝeni la prezidanton de landa asocio
+    - teksto: aliĝi en la lasta periodo por subteni la movadon
+    - teksto: varbi trian litkunulon
+    - teksto: pugnobati denaskulon
+    - teksto: gejedziĝi kun esperantisto
+    - teksto: resti hejme dum la JES
+    - teksto: paroli Esperanton al si mem en la EU-parlamento
+    - teksto: ŝteli manĝaĵon por allogi novan kunĉambran(in)on
+    - teksto: dormi nude en varma memzorgantejo
+    - teksto: amori kun Rolf Fantom
+    - teksto: danci freneze kun la diskejestro
+    - teksto: senintence krei novan denaskulon
+    - teksto: Stela Besenyei, flirte batante siajn palpebrojn
+    - teksto: ofendi veganon kaj timi la rezulton
+    - teksto: fingrumi novulinon dirante, "Tiel oni salutas en mia kulturo"
+    - teksto: nude diri, "En mia lando, tio normalas."
+    - teksto: T-ĉemizo de Muzaiko
+    - teksto: duopa festo en saŭno kun ŝaŭmo
+    - teksto: Kimo kun vino kaj avino
+    - teksto: verki artikolon pri si mem en Ondo de Esperanto
+    - teksto: iri al Universala Kongreso kun flago kaj kondomoj
+    - teksto: adoleska gravedeco
+    - teksto: atendi rukton sed subite ekvomi
+    - teksto: Boris, la Soveta Amo-Martelo
+    - teksto: duopa penetrado
+    - teksto: forbruligi la Blankan Domon
+    - teksto: 'Kanado: la ĉapelo de Usono'
+    - teksto: la homa korpo
+    - teksto: la plej alta nano en la mondo
+    - teksto: la voĉo de Morgan Freeman
+    - teksto: malgaja, dika drako sen amikoj
+    - teksto: muĝado
+    - teksto: nekomprenebla stulteco
+    - teksto: pafi ĉielen, ĝiskojone en gruntanta fakoĉero
+    - teksto: pli granda, pli nigra kaco
+    - teksto: rapide atingi orgasmon
+    - teksto: rompita kondomo
+    - teksto: senvestiĝi kaj rigardi kartunojn
+    - teksto: subite ekkanti en lifto
+    - teksto: terura akcidento pro lasera harforiga operacio
+    - teksto: virlakto
+    - teksto: vitreca fiksrigardado de pluŝurso
+    - teksto: venĝa fikado
+    - teksto: Avo Frosto
+    - teksto: maljunula erekto
+    - teksto: nuancita kritiko
+    - teksto: la seksa apetito de Zeŭso
+    - teksto: Google
+    - teksto: milda aŭtismo
+    - teksto: malgrandegaj cicoj
+    - teksto: mia unua mortigo
+    - teksto: ĉifono plena je etero
+    - teksto: la cindroj de avĉjo
+    - teksto: la miksado de la rasoj
+    - teksto: pugtruo kiel la supro de boto kaŭĉuka
+    - teksto: piĉo kiel sorĉista maniko
+    - teksto: cirklo de vodkoboldoj sub la bonvola diktatoreco de Vít Guglielmo
+    - teksto: la harplena hakilvundo
+    - teksto: la glaciigita kapo de Ivo Lapenna
+    - teksto: kripo de la jaro
+    - teksto: ĉeesti kongreson kun koramik(in)o
+    - teksto: italaj organizantoj
+    - teksto: la fortikaj kruroj de Petra Smideliusz
+    - teksto: Michael Boris Mandirola
+    - teksto: trinkejo plena je maljunaj esperantistoj
+    - teksto: Fikipedio
+    - teksto: edzperanto
+    - teksto: Gunnar Fischer kun sia ukulelaro
+    - teksto: kanti la himnon fekebrie
+    - teksto: instrui pri korpopartoj per rekta metodo
+    - teksto: frustritaj iĉistoj
+    - teksto: matraco en la TEJO-oficejo
+    - teksto: ĝeni na fundamentisto
+    - teksto: sesopumado dum SES
+    - teksto: '"silente" fiki en amasloĝejo'
+    - teksto: vestiĝi per nenio krom la Esperanto-flago
+    - teksto: mia plej ŝatata trajno
+    - teksto: ĉasi novulojn
+    - teksto: striptizo dum la Internacia Vespero
+    - teksto: Tatra Teo
+    - teksto: ŜETLANDA PONEO!
+    - teksto: ĈEVALO!
+    - teksto: plezurigi sin per Zamenhofa biografio
+    - teksto: midzi iun por privata duŝo
+    - teksto: kripi novulojn
+    - teksto: slovakinoj
+    - teksto: ne uzi senodorigilon
+    - teksto: bambumado kun neesperantistoj
+    - teksto: erotika versio de La Bambo
+    - teksto:    ♬ Alkohol' ! ♬
+    - teksto:    ♬ Alkohol' ! ♬
+    - teksto: kongresejo meze de nenie
+    - teksto: la trian tagon demandi kie estas la duŝejo
+    - teksto: kacecaj objektoj
+    - teksto: Marek Blahuš. Simple Marek Blahuš.
+    - teksto: aĉuloj kun siaj iFonoj
+    - teksto: seksumado sur IJK-flago
+    - teksto: anĝelo por novulino
+    - teksto: polinoj
+    - teksto: T-ĉemizo LINGVA REVOLUCIO!
+    - teksto: parkerigi la himnon de Esperanto
+    - teksto: tekilumado
+    - teksto: polico en la kongresejo
+    - teksto: nekomprenebla programtabulo
+    - teksto: senkurtena ĉiugenra duŝejo
+    - teksto: longega kunsido kun Roy McCoy
+    - teksto: duonnuda virino sur kovrilo de Kontakto
+    - teksto: fuŝenamiĝo pro ŝerco per koverta poŝto
+    - teksto: neatendita akuzativon
+    - teksto: seksvojaĝi per Pasporta Servo
+    - teksto: koncerto de Piĉismo
+    - teksto: Esperantista Kat-amikaro
+    - teksto: dancistinoj de Amindaj
+    - teksto: tralegi Jarlibron ĝis la fino
+    - teksto: la Aŭskulta Servo
+    - teksto: Pasporta Servo
+    - teksto: Papo Francisko
+    - teksto: la barbo de Zamenhof
+    - teksto: la memzorgantejo
+    - teksto: amasloĝeja seksmolesto
+    - teksto: Nicola Ruggiero
+    - teksto: Jorge Camacho
+    - teksto: nepagataj staĝantoj
+    - teksto: la kopirajta mafio
+    - teksto: Kacporta Servo
+    - teksto: biblieca kvanto da sango
+    - teksto: la fia juda-bolŝevisma tutmonda konspiro
+    - teksto: TEJO-kunsido
+    - teksto: malami iĉojn
+    - teksto: la ĉien penetranta odoro de ŝvito
+    - teksto: kacpoemaro
+    - teksto: la ĝardena domo de Irek Bobrzak
+    - teksto: Esperantista terorismo
+    - teksto: penetri per la fingroj
+    - teksto: Eskimo-teroristoj
+    - teksto: Giorgio Silfer
+    - teksto: rajdi Jonny M, uzante la feltharojn kiel rimenojn
+    - teksto: la ŝorto de Andi Münchow
+    - teksto: Professor Emeritus John Wells
+    - teksto: Tim Morley
+    - teksto: Chuck Smith, Esperantisto de la Jaro 2015
+    - teksto: senpagaj knufloj
+    - teksto: la Centra Oficejo de UEA
+    - teksto: kunlangaj brakumoj
+    - teksto: anarkiistoj kun uniform-fetiĉo
+    - teksto: la komika duopo Léon kaj Tomáš
+    - teksto: ĉiuj iamaj membroj de La Perdita Generacio
+    - teksto: Matthieu Desplantes, sed antaŭe, kiam li ankoraŭ foje ridetis
+    - teksto: IJK en Antarkto
+    - teksto: IJK en Afriko
+    - teksto: Arina Osipova
+    - teksto: Łukasz Żebrowski
+    - teksto: Dorota Rodzianko
+    - teksto: Charlotte Scherping Larsson
+    - teksto: Cyprien Guiya
+    - teksto: Paulína Kožuchová
+    - teksto: Léon Kamenický
+    - teksto: Jérémie Sabiyumva
+    - teksto: Natalia Żebrowska
+    - teksto: Tomáš Stano
+    - teksto: Adjé Adjévi
+    - teksto: fekdamnaj blankuloj
+    - teksto: maljuna Akademiano kiu prelegas pri seksvortoj nur por aŭdi ilin unu lastan fojon
+    - teksto: konflikto kun nova Ĝenerala Direktoro
+    - teksto: Chuck Smith en kompleto
+    - teksto: mefito
+    - teksto: purigi fenestrojn, manĝigi ĉevalon
+    - teksto: Supernova
+    - teksto: evento simila al SES, sed kun almenaŭ mezbonaj manĝaĵoj
+    - teksto: longa koncerto de Kubof
+    - teksto: tri-taga busvojaĝo al nuligita evento
+    - teksto: Alekĉjo
+    - teksto: La Hotel' Esperanto
+    - teksto: tiu afero, kiun faris Rogener Pavinski kun la anaso
+    - teksto: bela portugala akĉento
+    - teksto: tiu bonkorulo Alvaro Motta, kiu certe neniel kulpas pri la tuta afero
+    - teksto: tiu aĉulo Rogener Pavinski
+    - teksto: la terure prema kulposento de Roĉjo
+    - teksto: Verdaj Skoltoj
+    - teksto: instrui Esperanton per la erekta metodo
+    - teksto: blinda amrendevuo en la kongresa drinkejo
+    - teksto: "nova kurso: Amrendevuado por progresantoj"
+    - teksto: okhora malfruo
+    - teksto: Jair Bolsonaro
+    - teksto: la kompleto de Rakoen Maertens
+    - teksto: mia hodiaŭa horoskopo
+    - teksto: la Pos-Amiko
+    - teksto: senfina Internacia Vespero
+    - teksto: sola karaokeumado
+    - teksto: Duolingo-lernantoj
+    - teksto: senfina komitatkunsido
+    - teksto: pluramemuloj
+    - teksto: Dek Bovinoj
+    - teksto: sekreta orgio en amasloĝejo
+    - teksto: la apo Amikumu
+    - teksto: la apo Amindumu
+    - teksto: La Ida Venko
+    - teksto: TEJO-kondomo
+    - teksto: senĝene kunporti fois gras al Internacia Trink-Manĝa Vespero
+    - teksto: Karina Oliveira
+    - teksto: Fernando Maia Jr
+    - teksto: Querino Neto
+    - teksto: Paulo Sérgio Viana
+    - teksto: Jair Salles
+    - teksto: Rafael Zerbetto
+    - teksto: Emilio Cid
+    - teksto: Juliana Evandro
+    - teksto: URSAL
+    - teksto: prezo de banano
+    - teksto: alvoki la porkojn al la debato
+    - teksto: Euleax, la diino de Homlupo
+    - teksto: Kiko, la taksiisto el Sorriso
+    - teksto: la brazila novfaŝisto Bolsonaro
+    - teksto: Marcionilo dirante “helpu min, sinjorino!”
+    - teksto: KarEJO
+    - teksto: Neia Lúcia
+    - teksto: fiku ĉi tie kaj faru filon
+    - teksto: ĉuri duonlitron
+rugxaj:
+  bildo: "img/rugaj_kartoj.png"
+  fontkoloro: "#ce181e"
+  antauxpado: "rugxa"
+  kartoj:
+    - teksto: 1. Kreu PDF de tiu ĉi dokumento kun po 9 paĝoj sur ĉiu A4-folio.\n2. Presu tion sur blanka 200gsm papero.\n3. Enplastigu en 2x75μ.\n4. Eltranĉu per "reverse wonky rectangle".
+    - teksto: "___ ? Ekzistas apo por tio!"
+    - teksto: Kial mi ne povas dormi nokte?
+    - teksto: Kio estas tiu odoraĉo?
+    - teksto: Ĉu ĵaluza, mi? Tute ne, tute ne! Mi havas _____. La amant(in)oj falas surgenuen antaŭ mi.
+    - teksto: Kiu ŝtelis la kuketojn el la kuirejo?
+    - teksto: Kio estos la nova ludilo en la Happy Meal de McDonald's?
+    - teksto: Antropologoj ĵus malkovris tribon, kiu kultas pri ____.
+    - teksto: Estas domaĝe, ke la hodiaŭaj infanoj enmiksiĝas en ____.
+    - teksto: Dum sia ofte forgesita Bruna Periodo, Picasso kreis centojn da pentraĵoj de ___.
+    - teksto: La alternativa medicino nun adoptas la kuracan potencon de ___.
+    - teksto: Kio estas tiu bruo?
+    - teksto: Kio finfine rompis mian lastan amrilaton?
+    - teksto: Nova televid-programo montras ok prafamulojn, kiuj loĝas en domo kun ___.
+    - teksto: Mi drinkas por forgesi ___.
+    - teksto: Pardonu min, Profesoro, ne eblis finfari mian hejmtaskon pro ___.
+    - teksto: Kion kaŝe faras Batman por amuzi sin?
+    - teksto: Kaj tiel finiĝos la mondo, ne kun eksplodego, sed kun ___.
+    - teksto: Mia plej grava havendaĵo estas ___.
+    - teksto: La nova regularo pri sekureco nun malpermesas ___ en aviadiloj.
+    - teksto: "___. Jen kiel mi mortos."
+    - teksto: La Esperanta Civito ĵus anoncis, ke ilia celo de ĉiam fakte estis ___.
+    - teksto: En la sekva libro, Tinĉjo unuafoje malkovros ___.
+    - teksto: La prefero de Putin estas ___.
+    - teksto: Mi bedaŭras, ke mi perdis la instrukciojn por ___.
+    - teksto: Mi verŝajne kabeos pro ___.
+    - teksto: Post mil jaroj, kiam paperaj monbiletoj estas nur memoraĵo, ___ estos nia valuto.
+    - teksto: Romantika kandellumita manĝado estas nekompleta sen ___.
+    - teksto: "___. Oni ĉiam volas unu plian!"
+    - teksto: Idistoj ŝatas ___.
+    - teksto: "____? Hej, tutcerte, amiko!"
+    - teksto: La sekva eldonaĵo en la serio estas Hari Poter kaj la ___.
+    - teksto: "Ni fiere anoncas tutnovan servon ĉe tiu ĉi kongreso: ___."
+    - teksto: ♬ En la mondon venis ___.
+    - teksto: Dum seksumado, mi ŝatas pensi pri ___.
+    - teksto: Kion kaŝas miaj gepatroj for de mi?
+    - teksto: Kio ĉiam sukcesas por logi homojn alliten?
+    - teksto: Kiam mi estos en malliberejo, mi kaŝe transportigos al mi ___.
+    - teksto: Kion vi revenigis de Amsterdamo?
+    - teksto: Kion vi vere ne ŝatus trovi en via ĉina manĝaĵo?
+    - teksto: Kion mi kunportu al la pasinteco por konvinki homojn, ke mi estas potenca sorĉisto?
+    - teksto: Kiel mi sukcesas daŭrigi la staton de mia amrilato?
+    - teksto: "____. Temas pri kaptilo!"
+    - teksto: "Nova spektaklo en Esperantujo: “___, kun muziko de JoMo”."
+    - teksto: Dum Usono kaj Rusio konkursis por konkeri la lunon, la francia registaro elspezis miliardojn por esplori pri ___.
+    - teksto: Post la tertremo, Silvio Berlusconi alportis al la viktimoj ___.
+    - teksto: Pro vasta skandalo, Tesco ne plu vendas ___.
+    - teksto: Antaŭ ol vin mortigi, S-ro Bond, mi volas montri al vi ___.
+    - teksto: Kio igas min tiel senĉese furzi?
+    - teksto: Kiel odoras maljunuloj?
+    - teksto: La lerneja ekskurso estis entute fuŝita de ___.
+    - teksto: Kiam tute mankis reago de la faraono, Moseo frapis per Pesto de ___.
+    - teksto: Kio estas mia sekreta povo?
+    - teksto: En la Ĉielo, estas amaso da ___.
+    - teksto: Kio, por Avinjo, estus ĝena, sed tamen strange alloga?
+    - teksto: La usona armeo komencis provizi afganajn infanojn per ___.
+    - teksto: Kio helpas al Angela Merkel ektrankviliĝi?
+    - teksto: La morgaŭa vegana vespermanĝo estos ___.
+    - teksto: "___ : bongusta ĝis la fino!"
+    - teksto: Kial mi estas gluema?
+    - teksto: Kio pliboniĝas laŭ la aĝo?
+    - teksto: "___: testita de infanoj, aprobita de gepatroj."
+    - teksto: Kio plej inspiras malriĉajn lernejanojn en via lando?
+    - teksto: Studoj montras, ke ratoj 50-elcente pli bone tranavigas labirinton post kontakto kun ___.
+    - teksto: La vivo de prahomoj estis malfacila antaŭ ___.
+    - teksto: Mi ne scias per kiaj armiloj la Tria Mondmilito fariĝos, sed en la Kvara Mondmilito oni uzos ___.
+    - teksto: Dum Ramadano, mi ĉesigos ___.
+    - teksto: Dum siaj lastaj momentoj, Michael Jackson pensis pri ___.
+    - teksto: Kiam mi estos miliardulo, mi starigos 10-metran statuon por soleni al ___.
+    - teksto: La drogojn? Mi ĉesos tuj kiam mi volos pro ___.
+    - teksto: Kio ĉiam sukcesas por vigligi feston?
+    - teksto: Kio estas la nova laŭmoda dieto?
+    - teksto: FIFA nun malpermesas ___ pro la neĝusta avantaĝo, kiun ĝi donas.
+    - teksto: Paĉjo, kial Panjo ploras?
+    - teksto: Kio subite ĉesigis la amasfikadon?
+    - teksto: Dum sia mezaĝa krizo, mia patro ege pasiis pri ___.
+    - teksto: Mia nove preferata porno-stelulo estas Johano “___” Ferulo.
+    - teksto: Antaŭ ol kandidatiĝi por la Prezidenteco, mi devas detrui ĉiun restaĵon de kiam mi enmiksiĝis en ___.
+    - teksto: Parolas via kapitano. Alkroĉu vian sekurrimenon kaj prepariĝu por ___.
+    - teksto: "En la ĉi-monata numero: “Revigligu vian seksumadon! Enlitiĝu kun ___.”"
+    - teksto: "Post monatoj de debatado, la komitato de la Occupy-movado konsentis nur pri tio: “Pli da ___!”"
+    - teksto: Estas malfacile diskuti kun sia infano pri ___.
+    - teksto: "Pri nur du aferoj oni certas en la vivo: la morto, kaj ___."
+    - teksto: ĈIUJ SURPLANKEN! Ni ne volas vundi iun ajn! Ni venis nur por ___.
+    - teksto: Nun finiĝis la balotado, kaj la nova simbolo de la Esperanto-movado estas ___.
+    - teksto: En la malliberejo ĉi tie, laŭdire oni povas negoci ___ kontraŭ 200 cigaredoj.
+    - teksto: La vivo de la indiĝenoj ŝanĝiĝis kiel neniam antaŭe kiam blankuloj donis al ili ___.
+    - teksto: Je ĉiu Kristnasko, mia onklo ebriiĝas kaj denove rakontas al ni pri ___.
+    - teksto: Kio varmigas min dum la longa, malvarmega vintro?
+    - teksto: Post silvestra ebria sveno, min vekis ___.
+    - teksto: Kiam mi estis juna, mi gajnis premion por ___.
+    - teksto: Kio ĉiam troviĝas inter la kusenoj de la sofo?
+    - teksto: Mi estas spertulo pri ___.
+    - teksto: "___ estas mia plej malalloga kutimo."
+    - teksto: Ĉio estas pli bona kun ___.
+    - teksto: Kiel vi gustus?
+    - teksto: Kion vi realigis hodiaŭ?
+    - teksto: Kio feliĉigis vin hodiaŭ?
+    - teksto: Kial vi ĝisŝaŭme nervoziĝas?
+    - teksto: Oni trovis la viktimon kun ___.
+    - teksto: Mortigu ĝin per ___!
+    - teksto: Mia(j) ___ estas tro granda(j).
+    - teksto: Ni vidis, ke ___-Homo estas heroo, kiun ni nek bezonis nek volis.
+    - teksto: Kio faris tiun makulon sur mia sofo?
+    - teksto: Sukcesa intervjuo por nova posteno komenĉigas per manpremo kaj finiĝas per ___.
+    - teksto: Ne eblas aĉeti amon, sed ja eblas aĉeti ___.
+    - teksto: ♬ Por dancadi la Bambon necesas ___.
+    - teksto: Esperanto estas ___.
+    - teksto: La kongresa temo estas ___.
+    - teksto: Ni havas gravan anoncon pri ___.
+    - teksto: ♬ Mi ne estas maristo, sed ___.
+    - teksto: Ni ekskursos al ___.
+    - teksto: ♬ Mi pretas je ___ por esti en la televido.
+    - teksto: En la nuna numero de KONTAKTO estas artikolo pri ___.
+    - teksto: ♬ Ĉio bela en la mondo devas iam iĝi ___.
+    - teksto: "___ protektos vin."
+    - teksto: Dum kelkaj ekskursas, aliaj volas ___.
+    - teksto: La plej bona kuracilo por postebrio estas ___.
+    - teksto: Anstataŭ funkciigi Pasportan Servon, la estraro de TEJO preferas zorgi pri ___.
+    - teksto: Post horoj de La Bambo, ĉiuj subite haltis pro ___.
+    - teksto: Ĉu vi venos al la plej nova evento? Ĝi nomiĝas la Esperantista Semajno de ___!
+    - teksto: Dum sia lasta kunsido TEJO-estraro alprenis decidon pri ___.
+    - teksto: Libera Folio ĵus malkovris, ke Gerda malaperis pro ___.
+    - teksto: "Mi havas nur unu kialon por veni al ĉi tiu evento: ___."
+    - teksto: Mia unua ago kiel Prezidento estos krei Ministron Pri ___.
+    - teksto: Por allogi la publikon, la Nacia Muzeo ĵus malfermis interagan ekspozicion pri ___.
+    - teksto: Kial mia tuta korpo doloras?
+    - teksto: ♬ ___ ĝis la nokto- nokto-fin'.
+    - teksto: Estas aĉege trovi en sia subvestaĵo ___.
+    - teksto: La lasta Universala Kongreso estis senegala sukceso pro ___.
+    - teksto: Kial lerni Esperanton?
+    - teksto: La oficejo de TEJO estas ĝenata per senĉesa demandado pri ___.
+    - teksto: Mi terure misuzis la fidon de mia Pasporta Servo-gastiganto per ___.
+    - teksto: Antaŭ ol eklerni Esperanton, mi arde interesiĝis pri ___.
+    - teksto: UEA fiere anoncas la aliĝon de nova Faka Sekcio pri ___.
+    - teksto: Inventu demandon!\n\n...aŭ simple prenu alian karton se vi preferas.    ;-)
+    - teksto: Trump pasintnokte furioze pepis pri ___.
+    - teksto: "___? Defio akceptita!"
+    - teksto: Neniam forlasu la domon sen ___!
+    - teksto: Britujo ne konsentas pri EU-eliro sen garantio pri ___.
+    - teksto: "___ muĝas, MUU!"
+    - teksto: "___ protektas vin."
+    - teksto: Mi ekhavis rekordan nombron de novaj rilatoj dum kongreso dank' al ___.
+    - teksto: Dum enuigaj prelegoj mi revas pri ___.
+    - teksto: "___ — neniam denove!"
+    - teksto: "___ sur portreto(n) de Zamenhof."
+    - teksto: La sekva TEJO-seminario estos pri ___ kaj ___.
+    - teksto: Kaj la premion pri ___ gajnas ___.
+    - teksto: En mia sekva magiaĵo, mi aperigos ___ el ___ .
+    - teksto: "___ estas kvazaŭ enkondukilo al ___."
+    - teksto: La plej potenca paro de bildstriaj herooj estas ___ kaj ___.
+    - teksto: En mondo infestita de ___, nia sola plezureto estas ___.
+    - teksto: En nova komika filmo, Tom Cruise estas ___ kaptita en la korpo de ___.
+    - teksto: Laŭ onidiro, la plado plej preferata de Vladimir Putin estas ___ farĉita de ___.
+    - teksto: Mi neniam komprenis ___ antaŭ ol renkonti ___.
+    - teksto: "Kaj nun, sekvos dokumentario: “___, la historio de ___”."
+    - teksto: Dum droga halucino, mi vidis ___ ŝanĝiĝi al ___.
+    - teksto: "Jes, mi konfesas, mi mortigis ___. Kiel? Simple: ___."
+    - teksto: Mia patrino koleriĝis kiam ŝi vidis en la historio de mia TTT-legilo ___.com/___.
+    - teksto: Se Dio ne volus, ke ni ĝuu ___, li ne donintus al ni ___.
+    - teksto: Via vivo estas nekompleta se vi neniam spertis ___ kaj ___ samtempe.
+    - teksto: "Paŝo 1: ___.\nPaŝo 2: ___.\nPaŝo 3: profito!"
+    - teksto: "___ uzas ___. Ĝi estas treege efika!"
+    - teksto: Mi dediĉis mian tutan vivon al ___, sed ĝi estis tute fuŝita de ___.
+    - teksto: Vi ne rajtas ___ dum ___.
+    - teksto: Mi havas klaĉon pri ___ kaj ___.
+    - teksto: Mi ne kulpas pri ___! Estis pro ___!
+    - teksto: "___ ___"
+    - teksto: "___ ___ ___"
+    - teksto: Verku hajkon.
+    - teksto: "___ + ___ = ___"
