@@ -1,5 +1,5 @@
 verdaj:
-  bildo: "img/verdaj_kartoj.png"
+  bildo: "../img/verdaj_kartoj.png"
   fontkoloro: "#008000"
   antauxpado: "verda"
   kartoj:
@@ -109,7 +109,7 @@ verdaj:
     - teksto: mikozoj
     - teksto: natura selektado
     - teksto: masturbado
-    - teksto: M&Ms
+    - teksto: M&amp;amp;Ms
     - teksto: ĉekomputila festo
     - teksto: kontraŭpremeblaj dikfingroj
     - teksto: feki en sia subvestaĵo
@@ -602,7 +602,7 @@ verdaj:
     - teksto: fiku ĉi tie kaj faru filon
     - teksto: ĉuri duonlitron
 rugxaj:
-  bildo: "img/rugaj_kartoj.png"
+  bildo: "../img/rugaj_kartoj.png"
   fontkoloro: "#ce181e"
   antauxpado: "rugxa"
   kartoj:
