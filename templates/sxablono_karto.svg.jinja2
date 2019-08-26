@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60mm" height="90mm" viewBox="0 0 60 90" version="1.1" id="svg8" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <pattern id="pat" x="0" y="0" height="90" width="60" patternUnits="userSpaceOnUse">
+      <image x="0" y="0" width="60" height="90" xlink:href="fono.svg" />
+    </pattern>
+  </defs>
+  <g transform="translate(0, 0)" id="layer1">
+    <g id="k" height="90" width="60" transform="translate(0, 0)">
+      <rect y="0" x="0" height="90" width="60" id="k-fono" font-weight="bold"
+         style="stroke:black;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill:#fff" />
+      <text id="k-titolo" y="5" x="5"
+         style="font-style:normal;font-weight:normal;font-size:6.5px;line-height:1;font-family:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25">
+         {% for tekstlineo in k["teksto"] %}
+         <tspan y="{{10 + loop.index0*6}}" x="3" id="k-par-{{loop.index}}" style="font-size:5.5px;line-height:0;fill:{{ fontkoloro }};stroke-width:0.25">
+             {{ tekstlineo }}
+         </tspan>
+        {% endfor %}
+      </text>
+      <image x="3" y="60" width="25" height="25" xlink:href="{{ piedbildo }}" />
+      <text id="k-teksto" y="40" x="0"
+         style="font-style:normal;font-weight:normal;font-size:6px;line-height:1;font-family:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000;fill-opacity:1;stroke:none;stroke-width:0.25">
+           <tspan y="68" x="30" font-weight="bold" style="font-size:5px;line-height:0;fill:{{ fontkoloro }};stroke-width:0.25">
+                Kartoj
+           </tspan>
+           <tspan y="74" x="30" font-weight="bold" style="font-size:5px;line-height:0;fill:{{ fontkoloro }};stroke-width:0.25">
+                Kontraŭ
+           </tspan>
+           <tspan y="80" x="30" font-weight="bold" style="font-size:5px;line-height:0;fill:{{ fontkoloro }};stroke-width:0.25">
+                Esperantujo
+           </tspan>
+     </text>
+    </g>
+  </g>
+</svg>
